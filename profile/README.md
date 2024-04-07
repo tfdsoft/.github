@@ -1,5 +1,3 @@
+# Famidash!
 This is where the magic happens
-
-# Famidash
-
-Now not bound to one person anymore!
+Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainment System
