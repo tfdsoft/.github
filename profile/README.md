@@ -3,21 +3,21 @@
 
 Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainment System
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=famidash&label=Profile%20views&color=0e75b6&style=flat" alt="famidash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tfdsoft&label=Profile%20views&color=0e75b6&style=flat" alt="famidash" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famidash" alt="famidash" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/teamfamidash" target="blank"><img src="https://img.shields.io/twitter/follow/teamfamidash?logo=twitter&style=for-the-badge" alt="teamfamidash" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tfdsoft" target="blank"><img src="https://img.shields.io/twitter/follow/tfdsoft?logo=twitter&style=for-the-badge" alt="tfdsoft" /></a> </p>
 
-- 🔭 I’m currently working on [Famidash](https://github.com/famidash/famidash)
+- 🔭 I’m currently working on [Famidash](https://github.com/tfdsoft/famidash)
 
 - 🌱 I’m currently learning **how to play Geometry Dash**
 
-- 👯 I’m looking to collaborate on [Famidash](https://github.com/famidash/famidash)
+- 👯 I’m looking to collaborate on [Famidash](https://github.com/tfdsoft/famidash)
 
-- 🤝 I’m looking for help with [Famidash](https://github.com/famidash/famidash)
+- 🤝 I’m looking for help with [Famidash](https://github.com/tfdsoft/famidash)
 
-- 👨‍💻 All of my projects are available a [https://github.com/famidash](https://github.com/famidash)
+- 👨‍💻 All of my projects are available a [https://github.com/tfdsoft](https://github.com/tfdsoft)
 
 - 📝 I regularly write nothing on [https://bit.ly/famidash](https://bit.ly/famidash)
 
@@ -25,13 +25,13 @@ Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainme
 
 - 📫 How to reach me **up your ass**
 
-- 📄 Know about my experiences [https://github.com/famidash/famidash](https://github.com/famidash/famidash)
+- 📄 Know about my experiences [https://github.com/tfdsoft/famidash](https://github.com/tfdsoft/famidash)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teamfamidash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teamfamidash" height="30" width="40" /></a>
+<a href="https://twitter.com/tfdsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tfdsoft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +39,4 @@ Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainme
 
 Below are the stats of our Supreme Leader
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandowontu&show_icons=true&locale=en" alt="famidash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandowontu&show_icons=true&locale=en" alt="tfdsoft" /></p>
