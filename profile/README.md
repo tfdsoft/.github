@@ -39,4 +39,4 @@ Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainme
 
 Below are the stats of our Supreme Leader
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UserSniper&show_icons=true&locale=en" alt="tfdsoft" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandowontu&show_icons=true&locale=en" alt="tfdsoft" /></p>
