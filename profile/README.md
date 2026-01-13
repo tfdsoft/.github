@@ -1,7 +1,9 @@
 <h1 align="center">TFDSoft!</h1>
 <h3 align="center">This is where the magic happens</h3>
 
-Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainment System
+we make retro ports of games made by based people
+
+<!--Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainment System -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tfdsoft&label=Profile%20views&color=0e75b6&style=flat" alt="famidash" /> </p>
 
@@ -9,13 +11,13 @@ Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainme
 
 <p align="left"> <a href="https://twitter.com/tfdsoft" target="blank"><img src="https://img.shields.io/twitter/follow/tfdsoft?logo=twitter&style=for-the-badge" alt="tfdsoft" /></a> </p>
 
-- 🔭 I’m currently working on [Famidash](https://github.com/tfdsoft/famidash)
+- 🔭 I’m currently working on [Famidash](https://github.com/tfdsoft/famidash) and [PvZ Deplanted](https://github.com/tfdsoft/pvz-deplanted)
 
-- 🌱 I’m currently learning **how to play Geometry Dash**
+- 🌱 I’m currently learning **how to play Plants vs. Zombies**
 
 - 👯 I’m looking to collaborate on [Famidash](https://github.com/tfdsoft/famidash)
 
-- 🤝 I’m looking for help with [Famidash](https://github.com/tfdsoft/famidash)
+- 🤝 I’m looking for help with [PvZ Deplanted](https://github.com/tfdsoft/pvz-deplanted)
 
 - 👨‍💻 All of my projects are available a [https://github.com/tfdsoft](https://github.com/tfdsoft)
 
@@ -29,7 +31,7 @@ Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainme
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/tfdsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tfdsoft" height="30" width="40" /></a>
 </p>
