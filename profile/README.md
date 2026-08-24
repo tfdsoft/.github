@@ -11,9 +11,7 @@ we make retro ports of games made by based people
 
 <p align="left"> <a href="https://twitter.com/tfdsoft" target="blank"><img src="https://img.shields.io/twitter/follow/tfdsoft?logo=twitter&style=for-the-badge" alt="tfdsoft" /></a> </p>
 
-- 🔭 I’m currently working on [Famidash](https://github.com/tfdsoft/famidash) and [PvZ Deplanted](https://github.com/tfdsoft/pvz-deplanted)
-
-- 🌱 I’m currently learning **how to play Plants vs. Zombies**
+- 🔭 I’m currently working on [Famidash](https://github.com/tfdsoft/famidash)
 
 - 👯 I’m looking to collaborate on [Famidash](https://github.com/tfdsoft/famidash)
 
