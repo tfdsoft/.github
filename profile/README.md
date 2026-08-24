@@ -15,8 +15,6 @@ we make retro ports of games made by based people
 
 - 👯 I’m looking to collaborate on [Famidash](https://github.com/tfdsoft/famidash)
 
-- 🤝 I’m looking for help with [PvZ Deplanted](https://github.com/tfdsoft/pvz-deplanted)
-
 - 👨‍💻 All of my projects are available a [https://github.com/tfdsoft](https://github.com/tfdsoft)
 
 - 📝 I regularly write nothing on [https://bit.ly/famidash](https://bit.ly/famidash)
